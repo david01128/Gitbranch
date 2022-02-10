@@ -6,7 +6,7 @@ public class MainApp {
 		// TODO Auto-generated method stub
 		//這是組長第一次分享
 		System.out.println("1st version");
-		//這是家數學類別的版本
+		//這是家數學類別的版本1111
 		Math cMath = new Math();
 		System.out.println();
 		System.out.println(cMath.add(4, 10));
